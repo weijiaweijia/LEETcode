@@ -1,4 +1,4 @@
-ass Solution(object):
+class Solution(object):
     def judgeCircle(self, moves):
         nL=0
         nR=0
